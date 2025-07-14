@@ -9,9 +9,7 @@ Recommended compiler versions:
 - GCC 11.2.0
 - G++ 11.2.0
 
-### 2. Unpack the PALISADE archive to a local folder on your computer. Then, extract and overwrite with our code package.
-
-Create a subdirectory in the main directory—typically named "build". In this case, execute the following commands:
+### 2. Extract the code package and execute the following commands:
 
 ```bash
 cd large-precision-plaintext-bootstrapping-master
