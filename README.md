@@ -14,14 +14,11 @@ Recommended compiler versions:
 Create a subdirectory in the main directory—typically named "build". In this case, execute the following commands:
 
 ```bash
-cd H:\large-precision-plaintext-bootstrapping-master
+cd large-precision-plaintext-bootstrapping-master
 mkdir build 
 cd build 
 cmake ..
 make lptest -j4
-bin/examples/binfhe/lptest
-
-make allbinfheexamples -j4
 ```
 
 ### 3. To run the large-precision plaintext bootstrapping algorithm, enter the following command:
