@@ -8,7 +8,7 @@ This implementation was developed and tested under the following environment:
 
 - Windows 10
 - g++ (Rev1, Built by MSYS2 project) 11.2.0
-- cmake version 3.21.3
+- cmake 3.21.3
 
 
 
