@@ -7,7 +7,7 @@ You will need a C++ compiler with OMP support, as well as `cmake`, `make`, and `
 This implementation was developed and tested under the following environment:
 
 - Windows 10
-- g++ 11.2.0 (Rev1, Built by MSYS2 project)
+- g++ 11.2.0 (Built by MSYS2 project)
 - cmake 3.21.3
 
 
