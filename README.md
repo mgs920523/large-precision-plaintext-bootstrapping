@@ -4,10 +4,13 @@
 
 (For details, see: https://github.com/FlorentCLMichel/palisade)
 You will need a C++ compiler with OMP support, as well as `cmake`, `make`, and `autoconf`.
-Recommended compiler versions:
+This implementation was developed and tested under the following environment:
 
-- GCC 11.2.0
-- G++ 11.2.0
+- windows 10
+- g++ 11.2.0 (Built by MSYS2 project)
+- cmake 3.21.3
+
+
 
 ### 2. Extract the code package and execute the following commands:
 
